@@ -1,0 +1,1 @@
+# strictdoc_kicad_proposal
